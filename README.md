@@ -4,9 +4,9 @@ We got this results:
 Mean of the red channel using matlab: 29.6855
 Mean of the red channel using python: 29.68554587391081
 ..
-Results for  the lemon Sutil  "verde" class:\n 
+Results for  the lemon Sutil  "verde" class:
 
-#Print color mean for R channel:\n
+#Print color mean for R channel:
 print(rgb_mean[0])
 #Print color mean for G channel:
 print(rgb_mean[1])
