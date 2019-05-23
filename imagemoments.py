@@ -133,4 +133,4 @@ class ImageMoments(object):
 		#crear array de las 9 características
 		#array = np.concatenate([medias, std, skewness, kurt])
 
-		return np.array(np.concatenate([meann, std, skewness]))
+		return list(np.array(np.concatenate([meann, std, skewness])))
